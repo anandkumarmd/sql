@@ -1,0 +1,2 @@
+SELECT CONVERT(date,getdate()) AS CurrentDateTime
+SELECT CONVERT(datetime,getdate()) AS CurrentDateTime //with hh:MM:ss
